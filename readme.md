@@ -53,7 +53,7 @@ Figure elementen skrivs i en lista eftersom innehållet i galleriet passar i en 
 
 ### Figure
 
-Figure-elementet är ett element med innehåll och eventuellt en förklaring av detta. Det är ett semantiskt element.
+Figure-elementet är ett element med innehåll och eventuellt en förklaring av detta. Det är ett semantiskt (meningsbärande) element.
 
 Figure elementet kan användas för att förklara en bild eller en graf. Det kan också användas för att förklara en kodblock eller en annan typ av innehåll.
 
@@ -74,6 +74,8 @@ Då kan du arbeta vidare med att ge galleriet en egen stil. Koppla stilen till b
 
 * Färg
 * Font
+
+Du kan hitta mer att arbeta mer kring grid, figure och det andra på [modercss.dev](https://moderncss.dev/responsive-image-gallery-with-animated-captions/). Läs igenom exemplet och testa att använda en eller flera delar av exemplet.
 
 Skapa individuella sidor för varje bild. Bilderna ska vara länkade till sina egna sidor. Använd dig av ankar-elementet. Länken behöver omsluta bilden.
 
