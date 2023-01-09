@@ -15,7 +15,7 @@ I den här uppgiften ska du skapa ett bildgalleri med hjälp av css grid. Med et
     * figure
     * figcaption
 
-## Vad behöver du
+## Vad behöver du?-
 
 - [ ] Gör en fork av det här repot.
 - [ ] Leta reda på bilder som du vill använda.
@@ -28,7 +28,7 @@ I den här uppgiften ska du skapa ett bildgalleri med hjälp av css grid. Med et
     * Varför skrivs innehållet i en lista?
     * Hur fungerar `figure`
 
-## Hur
+## Hur?
 
 - [ ] Skapa ett grid med kolumner som är responsiva.
 - [ ] Redigera dokumentet så att bilderna visas.
@@ -102,3 +102,12 @@ Grid kan användas för att skapa layouter på sidor. Det är ett sätt att skap
 
 * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 
+## Varför?
+
+För att du behöver kunna strukturera, skapa innehåll på en webbplats och använda bilder.
+
+Enligt skolverket:
+
+> Märkspråk och deras inbördes roller, syntax och semantik – där det huvudsakliga innehållet är standarderna för HTML och CSS samt orientering om Ecmaskript och dokumentobjektsmodellen (DOM).
+
+> Bilder och media med alternativa format, optimering och tillgänglighet.
