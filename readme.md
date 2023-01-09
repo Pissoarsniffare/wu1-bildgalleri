@@ -17,20 +17,23 @@ I den här uppgiften ska du skapa ett bildgalleri med hjälp av css grid. Med et
 
 ## Vad behöver du
 
-* Gör en fork av det här repot.
-* Leta reda på bilder som du vill använda.
+- [ ] Gör en fork av det här repot.
+- [ ] Leta reda på bilder som du vill använda.
     * Bilderna ska ha ett gemensamt tema.
     * Du behöver 3-5 bilder.
     * Du kan använda dig av [Unsplash](https://unsplash.com/) eller [Pexels](https://www.pexels.com/).
     * Var noga med att det är bilder du får använda och publicera.
-* Förstå koden i `index.html`
+- [ ] Förstå koden i `index.html`
+    * Studera strukturen
+    * Varför skrivs innehållet i en lista?
+    * Hur fungerar `figure`
 
 ## Hur
 
-* Skapa ett grid med kolumner som är responsiva.
-* Lägg till bilderna i gridet.
-* Använd dig av figure-elementet för att förklara bilderna.
-* Arbeta med detta under lektionen.
+- [ ] Skapa ett grid med kolumner som är responsiva.
+- [ ] Redigera dokumentet så att bilderna visas.
+- [ ] Använd dig av figure, figcaption för att förklara bilderna.
+- [ ] Arbeta med detta under lektionen.
 
 ## Förklaring
 
@@ -72,12 +75,16 @@ Figcaption används för att förklara innehållet.
 
 Då kan du arbeta vidare med att ge galleriet en egen stil. Koppla stilen till bilderna du har valt.
 
-* Färg
-* Font
+- [ ] Färg
+- [ ] Font
 
-Du kan hitta mer att arbeta mer kring grid, figure och det andra på [modercss.dev](https://moderncss.dev/responsive-image-gallery-with-animated-captions/). Läs igenom exemplet och testa att använda en eller flera delar av exemplet.
+Du kan hitta mer att arbeta mer kring grid, figure och det andra på [modercss.dev](https://moderncss.dev/responsive-image-gallery-with-animated-captions/). Läs igenom hela eller delar av sidan.
 
-Skapa individuella sidor för varje bild. Bilderna ska vara länkade till sina egna sidor. Använd dig av ankar-elementet. Länken behöver omsluta bilden.
+- [ ] Testa att använda en eller flera delar av exemplet.
+
+- [ ] Skapa individuella sidor för varje bild.
+
+Bilderna ska vara länkade till sina egna sidor. Använd dig av ankar-elementet. Länken behöver omsluta bilden.
 
 ```html
 <a href="utter1.html"><img src="utter1.png"></a>
