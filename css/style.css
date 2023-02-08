@@ -1,5 +1,7 @@
 body {
     font-size: 1.2rem;
+    background-color: black;
+    color: orange;
 }
 .container {
     width: min(80ch, 100vw - 4rem);
@@ -39,5 +41,29 @@ main {
     right: 0;
     padding: 0.5rem;
     background: rgba(0, 0, 0, 0.5);
-    color: white;
+    color: orange;
+}
+
+iframe {
+    max-width: 100%;
+    width: 100%;
+}
+.container {
+    max-width: min(80ch, 100vw - 4rem);
+    margin-inline: auto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.2rem;
+}
+nav > ul {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
 }
